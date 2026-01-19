@@ -48,6 +48,10 @@ public class if_statement_lesson7 {
         }
         else{
             System.out.println("Bruh");
+
+            //Overall, if statements are same as In python
         }
     }
 }
+
+
