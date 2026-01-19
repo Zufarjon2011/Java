@@ -28,6 +28,7 @@ public class guess_the_number_game {
                 System.out.println("You found it right ⭐! Congrats!!! 😀");
                 break; // stop the game
             } else {
+                //Wrong guess, no restart just another try
                 System.out.println("Wrong guess 😓! Try again.");
             }
         }
