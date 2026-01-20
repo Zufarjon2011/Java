@@ -6,14 +6,17 @@ public class if_statement_lesson7 {
     public static void main(String [] args){
         Scanner input = new Scanner(System.in);
 
+        //asking for name
         String name;
         System.out.print("Enter Your name: ");
         name = input.nextLine();
 
+        //asking for age
         int age;
         System.out.print("Enter your age: ");
         age = input.nextInt();
 
+        //boolean equalent
         boolean isStudent;
         System.out.print("Are you a student?(true/false): ");
         isStudent = input.nextBoolean();

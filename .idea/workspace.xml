@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdc4e8f2-09e1-40be-a6a3-4d48d313a298" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/own_projects/MAIN.JAVA" beforeDir="false" afterPath="$PROJECT_DIR$/own_projects/MAIN.JAVA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_if/if_statement_lesson7.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson7_if/if_statement_lesson7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +59,7 @@
       <workItem from="1768925275736" duration="13000" />
       <workItem from="1768925296820" duration="12000" />
       <workItem from="1768925355475" duration="11000" />
+      <workItem from="1768925395981" duration="28000" />
     </task>
     <servers />
   </component>
